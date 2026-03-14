@@ -1,16 +1,17 @@
-## Hi there 👋
+## ✍️ About the Author
 
-<!--
-**amulyasannegowda-afk/amulyasannegowda-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amulya Sannegowda**  
+*Freelance Technical Writer | Former Senior Software Engineer at VMware by Broadcom*
 
-Here are some ideas to get you started:
+I am a veteran technical practitioner and freelance writer with over **13 years of experience** in the enterprise software industry. Having served as a **Senior Member of Technical Staff** at VMware by Broadcom, I specialize in translating complex, mission-critical engineering concepts into clear, high-impact technical content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise is rooted in a decade-long focus on:
+*   **Large-scale Virtualization** & SDDC
+*   **Cloud Infrastructure** Design
+*   **Mission-Critical Systems Engineering**
+
+I help organizations build trust with developer audiences through authoritative documentation, whitepapers, and technical blogs.
+
+### 🤝 Let's Connect
+*   **LinkedIn:** [Amulya Sannegowda](https://linkedin.com)
+*   **GitHub:** [@YourGitHubUsername](https://github.com)
